@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.cov
+*.cov~
+.ipynb_checkpoints/
+results/*_first*.json
